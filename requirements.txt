@@ -1,0 +1,16 @@
+# --- 核心框架与 AI 模型 ---
+langchain>=0.3.0
+langchain-openai>=0.1.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# --- 金融数据与分析 ---
+yfinance>=0.2.40
+pandas>=2.0.0
+
+# --- 环境变量与工具 ---
+python-dotenv>=1.0.1
+requests>=2.31.0
+
+# --- 选装（若后续使用 LangGraph 增强记忆） ---
+# langgraph>=0.1.0
