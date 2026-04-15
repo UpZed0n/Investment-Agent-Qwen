@@ -13,3 +13,5 @@ Key Features:
 多平台通知（Feishu/Lark Bot Integration）
 
 Quick Start: 写清楚如何安装依赖（pip install -r requirements.txt）。
+<img width="1190" height="901" alt="image" src="https://github.com/user-attachments/assets/a25c5fd0-f595-4be4-b9eb-b77d2388b07a" />
+
