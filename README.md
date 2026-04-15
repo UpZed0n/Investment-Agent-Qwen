@@ -1,4 +1,4 @@
-Project Title: Investment-Agent-Qwen (或者叫 Shipping-Finance-Monitor)
+Project Title: Investment-Agent-Qwen
 
 Description: 简述这是一个结合了航运背景与大模型的自动化投资助手。
 
